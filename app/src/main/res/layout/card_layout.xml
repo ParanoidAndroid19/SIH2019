@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:elevation="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/week_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Week 1"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
+                />
+
+            <ImageView
+                android:layout_below="@+id/week_text"
+                android:id="@+id/img_swipe"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_margin="10dp"
+                android:scaleType="centerCrop"
+                />
+
+            <!--<Button-->
+                <!--android:layout_below="@+id/img_swipe"-->
+                <!--android:id="@+id/go_to_video"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Go to Video"-->
+                <!--android:gravity="center"-->
+                <!--android:textStyle="bold"-->
+                <!--android:layout_marginStart="90dp"-->
+                <!--android:layout_marginEnd="90dp"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:textColor="#555454"-->
+                <!--android:background="@drawable/button_background"-->
+                <!--/>-->
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

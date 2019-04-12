@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item-->
+        <!--android:id="@+id/hospital"-->
+        <!--app:showAsAction="always"-->
+        <!--android:icon="@drawable/hospital"-->
+        <!--android:title="Hospital"-->
+        <!--/>-->
+
+    <item
+        android:id="@+id/map"
+        app:showAsAction="always"
+        android:title="Rate"
+        android:icon="@drawable/map"
+        />
+    <item
+        android:id="@+id/rate"
+        app:showAsAction="always"
+        android:title="Rate"
+        android:icon="@drawable/star"
+        />
+
+    <item
+    android:id="@+id/reset"
+    android:icon="@drawable/ic_reset"
+    app:showAsAction="always"
+    android:title="Reset"
+    />
+    <item
+        android:id="@+id/voice"
+        android:icon="@drawable/ic_voice"
+        app:showAsAction="always"
+        android:title="Reset"
+        />
+
+</menu>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HealthCard">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false">
+
+        <com.wenchao.cardstack.CardStack
+            android:id="@+id/containerHealth"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="100dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:gravity="center"
+            android:padding="10dp"
+            />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/back_button"
+            android:layout_alignParentBottom="true"
+            android:background="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:src="@drawable/back"
+            />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

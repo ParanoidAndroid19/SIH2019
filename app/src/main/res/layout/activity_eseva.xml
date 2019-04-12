@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context=".ESeva">
+
+    <!--<ScrollView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+        <TextView
+            android:id="@+id/pmny"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="@string/pmny"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            />
+
+        <VideoView
+            android:id="@+id/viewasha"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+
+
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/back_button"
+            android:layout_alignParentBottom="true"
+            android:background="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:src="@drawable/back"
+
+            />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <!--</ScrollView>-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="horizontal">-->
+
+        <!--<android.support.design.widget.FloatingActionButton-->
+            <!--android:id="@+id/fab_voice"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:layout_margin="20dp"-->
+            <!--android:layout_marginLeft="300dp"-->
+            <!--android:backgroundTint="@color/colorPrimary"-->
+            <!--android:src="@drawable/ic_reset" />-->
+    <!--</LinearLayout>-->
+
+
+
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/fab_voice"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_margin="30dp"-->
+        <!--android:backgroundTint="@color/colorPrimary"-->
+        <!--android:src="@drawable/ic_voice"-->
+        <!--/>-->
+
+
+</RelativeLayout>

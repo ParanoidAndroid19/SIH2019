@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सिद्धी</string>
+
+    <string name="week1">सप्ताह एक</string>
+    <string name="week2">सप्ताह दो</string>
+    <string name="week3">सप्ताह तीन</string>
+    <string name="week4">सप्ताह चार</string>
+    <string name="week5">सप्ताह चार</string>
+    <string name="week6">सप्ताह पंज</string>
+    <string name="week7">सप्ताह छह</string>
+    <string name="videostring">वीडियो</string>
+    <string name="babycarestring">बाळ काळजी</string>
+    <string name="pregnancystring">गर्भधारणा</string>
+
+</resources>
