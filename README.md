@@ -1,5 +1,6 @@
 # Smart India Hackathon 2019
 
+Finalist in SIH 2019
 
 Problem Statement: The death of women during delivery of child in rural area in the country is still a case to be addressed. The lack of awareness in rural areas, the unavailability of doctors and health counsellors in the PHCs, lack of education on women / mother heal, lack of hygiene and sanitation are the prime cause of such death which needs to be addressed.
 
@@ -52,6 +53,11 @@ Doctors can upload the medical reports of the women to the Database which can be
 
 #### Animated Videos to spread awareness:
 
+https://www.youtube.com/watch?v=ByfUlZnKNmw
+https://www.youtube.com/watch?v=8SXXSfnx7Nc&t=6s
+https://www.youtube.com/watch?v=7h4bprYqXUY&t=54s
+https://www.youtube.com/watch?v=asNax0ZpcMs&t=4s
+https://www.youtube.com/watch?v=WRK8evGhj1E
 
 
 #### Features:
