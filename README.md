@@ -32,3 +32,7 @@ In order to tackle the existing problem, the proposed solution acts as an effect
 
 
 #### Interfaces:
+![image](https://user-images.githubusercontent.com/30766392/56059026-b7a8c980-5d80-11e9-8379-ac594d775f90.png)  ![image](https://user-images.githubusercontent.com/30766392/56059087-deff9680-5d80-11e9-846c-4d7e8c27726d.png)  ![image](https://user-images.githubusercontent.com/30766392/56059103-ed4db280-5d80-11e9-9fdb-80b14a04205f.png)  ![image](https://user-images.githubusercontent.com/30766392/56059106-f179d000-5d80-11e9-8ade-771ae8380d3f.png)  ![image](https://user-images.githubusercontent.com/30766392/56059110-f5a5ed80-5d80-11e9-82eb-101daebb876f.png)
+
+![image](https://user-images.githubusercontent.com/30766392/56059121-fb9bce80-5d80-11e9-9402-6a3912120fcc.png)  ![image](https://user-images.githubusercontent.com/30766392/56059131-ff2f5580-5d80-11e9-9979-6e48f79bfad0.png)  ![image](https://user-images.githubusercontent.com/30766392/56059145-09e9ea80-5d81-11e9-8aaf-bd2ef9fc67b6.png)  ![image](https://user-images.githubusercontent.com/30766392/56059154-0e160800-5d81-11e9-88e9-e1b46c228c28.png)
+
