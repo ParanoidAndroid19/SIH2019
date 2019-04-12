@@ -43,7 +43,7 @@ Programming languages: Java(for android)
 Compilation Tools: Android studio.
 
 
-#### Working:
+# Working:
 The proposed solution will have log-in screens for the women, PHCs, Doctor and health workers. The women can register themselves through a health worker or they can register on their own using unique ID like a phone number. If the women register themselves through a health worker, precautionary measures with a risk prediction system for severe maternal morbidity in patients using machine learning techniques like Decision tree, logistic regression can be provided along with the facility of a personalized pregnancy timeline otherwise they can access general pregnancy timeline. 
 
 The users can watch informational animations/videos  on the themes of hygiene, sanitation, nutrition and pregnancy, they can also watch animations/videos without logging-in. The users will have a list of important contacts of nearby government hospitals, NGOs and their area health worker. They will receive regular reminders through notifications via SMS informing them of various important events like vaccinations and regular health check-ups.  Users can post and answer queries on community FAQ which will consist of doctors and PHC representatives. 
@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=asNax0ZpcMs&t=4s
 https://www.youtube.com/watch?v=WRK8evGhj1E
 
 
-#### Features:
+# Features:
 1. Voice enabled search to access various features of the app.
 2. Awareness through animation with no language constraints.
 3. Majority  of the app at user end will work without internet.
