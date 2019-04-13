@@ -33,7 +33,7 @@ In order to tackle the existing problem, the proposed solution acts as an effect
 
 
 #### Interfaces:
-![SIDDHI App Prototype](https://user-images.githubusercontent.com/30766392/56059010-a5c72680-5d80-11e9-8d53-d653136dcf12.gif)
+<img src="https://user-images.githubusercontent.com/30766392/56059010-a5c72680-5d80-11e9-8d53-d653136dcf12.gif" width="40%">
 
 
 #### Technology Stack:
@@ -69,3 +69,10 @@ https://www.youtube.com/watch?v=WRK8evGhj1E
 6. Calculation of hygiene index, by health worker.
 7. Self-made animations to create awareness among women.
 8. SOS button can be used during emergency for sending SMS alerts to the nearby registered users.
+
+
+# Experience
+
+<img src="https://user-images.githubusercontent.com/30766392/56078420-74dd0500-5e05-11e9-9de1-33796af8898c.JPG" width="40%"><img src="https://user-images.githubusercontent.com/30766392/56078422-7b6b7c80-5e05-11e9-91a6-cdc4960b1f4a.JPG" width="40%">
+<img src="https://user-images.githubusercontent.com/30766392/56078428-8c1bf280-5e05-11e9-829a-7e2de127b896.PNG" width="40%">
+
