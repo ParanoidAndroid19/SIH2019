@@ -50,6 +50,10 @@ The users can watch informational animations/videos  on the themes of hygiene, s
 
 Doctors can upload the medical reports of the women to the Database which can be accessed  by the corresponding users , thus avoiding inconvenience caused due to misplaced reports. After covering a certain area the location will be pinned on the Google-map , thus digitally coordinate the activities of the workers and avoiding duplication of work reducing workload. Post-pregnancy vaccination alerts for infants will also be generated through SMS notifications. 
 
+#### Use Case Diagram:
+
+<img src="https://user-images.githubusercontent.com/30766392/65853227-66b08000-e376-11e9-9ad9-df2c83d27d74.png" width="75%">
+
 
 #### Animated Videos to spread awareness:
 
